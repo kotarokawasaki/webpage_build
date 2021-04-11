@@ -19,3 +19,4 @@ htmlやtxtファイルと同じ、テキストファイルである
 
 ![表示できません](img/support_type_chart.PNG)
 
+# commit from vscode
