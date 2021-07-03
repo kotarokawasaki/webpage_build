@@ -11,7 +11,7 @@ htmlやtxtファイルと同じ、テキストファイルである
 - **github**での利用に使われる
 
 
-|item1 |item2
+|col1 |col2
 |-- |--
 |apple |lemon<br>water melon
 |soda |cora
