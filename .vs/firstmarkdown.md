@@ -1,4 +1,5 @@
-# 初めてのマークダウンファイル
+# Welcome to Kotaro GitHub
+## this is just my practice for .md file 
 ## .md = mark downの略
 
 これは、microsoft docs のようなバイナリファイルではなく
